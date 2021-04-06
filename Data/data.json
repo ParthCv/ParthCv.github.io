@@ -1,0 +1,72 @@
+[
+    {
+        "player": "Novak Djokovic",
+        "rank": "1",
+        "image": "./images/djokovic.jpg",
+        "points": "11,963",
+        "country": "SRB"
+    },
+    {
+        "player": "Daniil Medvedev",
+        "rank": "2",
+        "image": "./images/medvedev.jpg",
+        "points": "10,030",
+        "country": "RUS"
+    },
+    {
+        "player": "Rafael Nadal",
+        "rank": "3",
+        "image": "./images/nadal.jpg",
+        "points": "9,670",
+        "country": "ESP"
+    },
+    {
+        "player": "Dominic Theim",
+        "rank": "4",
+        "image": "./images/thiem.jpg",
+        "points": "8,660",
+        "country": "AUT"
+    },
+    {
+        "player": "Stefanos Tsitsipas",
+        "rank": "5",
+        "image": "./images/tsitsipas.jpg",
+        "points": "7,040",
+        "country": "GRE"
+    },
+    {
+        "player": "Alexander Zverev",
+        "rank": "6",
+        "image": "./images/zverev.jpg",
+        "points": "6,125",
+        "country": "GER"
+    },
+    {
+        "player": "Roger Federer",
+        "rank": "7",
+        "image": "./images/federer.jpg",
+        "points": "5,875",
+        "country": "SUI"
+    },
+    {
+        "player": "Andrey Rublev",
+        "rank": "8",
+        "image": "./images/rublev.jpg",
+        "points": "5,400",
+        "country": "RUS"
+    },
+    {
+        "player": "Diego Schwartzman",
+        "rank": "9",
+        "image": "./images/schwartzman.jpg",
+        "points": "3,720",
+        "country": "ARG"
+    },
+    {
+        "player": "Matteo Berrettini",
+        "rank": "10",
+        "image": "./images/berrettini.jpg",
+        "points": "3,453",
+        "country": "ITA"
+    }
+]
